@@ -1,0 +1,41 @@
+car_type,min_cc,max_cc,fuel,emission_kg_co2_per_km,emission_with_uplift
+Small,0,800,Gasoline,0.103,0.111
+Small,0,800,CNG,0.063,0.068
+Small,0,800,LPG,0.138,0.149
+Hatchback,0,1000,Gasoline,0.117,0.127
+Hatchback,0,1400,Gasoline,0.130,0.140
+Premium Hatchback,0,1600,Gasoline,0.150,0.162
+Compact SUV,0,1600,Gasoline,0.153,0.166
+Gypsy,1298,1298,Gasoline,0.189,0.204
+Sedan,0,1400,Gasoline,0.142,0.153
+Sedan,0,1600,Gasoline,0.142,0.153
+Sedan,0,2000,Gasoline,0.149,0.161
+Sedan,0,2500,Gasoline,0.163,0.176
+SUV,0,3000,Gasoline,0.197,0.213
+MUV,0,2000,Gasoline,0.213,0.230
+Premium SUV,0,2000,Gasoline,0.193,0.208
+Premium SUV,0,3000,Gasoline,0.258,0.279
+Premium SUV,3000,null,Gasoline,0.267,0.289
+Premium Sedan,0,2000,Gasoline,0.191,0.207
+Premium Sedan,0,3000,Gasoline,0.194,0.209
+Premium Sedan,3000,null,Gasoline,0.250,0.270
+Hybrid,0,2000,Gasoline,0.095,0.103
+Hatchback,0,1000,Diesel,0.105,0.113
+Hatchback,0,1400,Diesel,0.117,0.126
+Hatchback,0,1600,Diesel,0.136,0.147
+Sedan,0,1400,Diesel,0.121,0.131
+Sedan,0,1600,Diesel,0.131,0.141
+Sedan,0,2000,Diesel,0.148,0.160
+Premium Sedan,0,2000,Diesel,0.164,0.177
+Premium Sedan,0,2500,Diesel,0.151,0.163
+Premium Sedan,0,3000,Diesel,0.230,0.248
+MUV,0,1400,Diesel,0.145,0.157
+MUV,0,2500,Diesel,0.200,0.216
+Maxi Van,null,null,Diesel,0.209,0.226
+SUV,0,2000,Diesel,0.186,0.201
+SUV,0,2500,Diesel,0.195,0.210
+SUV,0,3000,Diesel,0.203,0.220
+Premium SUV,0,2000,Diesel,0.167,0.180
+Premium SUV,0,2500,Diesel,0.199,0.215
+Premium SUV,0,3000,Diesel,0.222,0.240
+Premium SUV,3000,null,Diesel,0.269,0.290

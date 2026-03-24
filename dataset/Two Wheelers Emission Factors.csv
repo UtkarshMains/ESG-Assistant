@@ -1,0 +1,9 @@
+category,min_cc,max_cc,emission_kg_co2_per_km,emission_with_uplift
+Scooter,0,110,0.0334,0.0368
+Scooter,0,150,0.0351,0.0387
+Motorcycle,0,100,0.0325,0.0358
+Motorcycle,0,125,0.0290,0.0319
+Motorcycle,0,135,0.0324,0.0356
+Motorcycle,0,200,0.0417,0.0458
+Motorcycle,0,300,0.0540,0.0595
+Motorcycle,0,500,0.0542,0.0597
